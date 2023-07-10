@@ -1,0 +1,29 @@
+#root {
+    /*max-width: 1280px;*/
+    margin: 0 auto;
+   /* padding: 2rem;*/
+    text-align: center;
+    /*text-align: justify;*/
+  }
+  
+  .menu{
+    height: 7rem;
+    width: 73.4rem;
+    margin:2.44rem 5.66rem 2.28rem 16.66rem;
+  }
+  
+  .aboutUs{
+    margin:2.44rem 16.66rem 2.28rem 16.66rem;
+  }
+  
+  .news{
+    margin-bottom: 4rem;
+  }
+  
+  .organizers{
+    margin-bottom: 4rem;
+  }
+  
+  .partners{
+    margin-bottom: 4rem;
+  }

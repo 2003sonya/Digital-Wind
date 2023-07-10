@@ -1,0 +1,116 @@
+@font-face {
+    font-family: Roboto-Medium;
+    src: url("../fonts/Roboto-Medium.ttf");
+}
+@font-face {
+    font-family: Roboto-Bold;
+    src: url("../fonts/Roboto-Bold.ttf");
+}
+
+.containerHaed{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 2.88rem;
+    width: 106rem;
+}
+
+.heading1{
+    color:rgba(40, 108, 187, 1);
+    font-size: 2rem;
+    padding-left: 1.5rem;
+    font-family:  Roboto-Medium;
+}
+
+.line{
+    width: 16rem;
+    display: inline-block;
+    border-top: 0.38rem solid rgba(54, 142, 245, 0.7);
+    margin-top: 2.5rem;
+}
+
+.flashLogo{
+    position: absolute;
+    top: -4.3rem;
+    left: 54.88rem;
+    width: 45rem;
+    height: 9rem;
+}
+
+.stages{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 106rem;
+}
+
+.region{
+    background-color: rgba(54, 142, 245, 1);
+    display: inline-block;
+    width: 33.61rem;
+    height: 8.94rem;
+    text-align: center;
+    margin-right: 2rem;
+    border-radius: 0rem;
+}
+
+.region:hover{
+    background-color:rgba(255, 155, 5, 1);
+    border: none;
+    border-radius: 0rem;
+}
+
+.international{
+    background-color: rgba(54, 142, 245, 1);
+    display: inline-block;
+    width: 33.61rem;
+    height: 8.94rem;
+    text-align: center;
+    margin-left: 3.2rem;
+    border-radius: 0rem;
+}
+
+.international:hover{
+    background-color:rgba(255, 155, 5, 1);
+    border: none;
+    border-radius: 0rem;
+}
+
+.maintext{
+    color: #FFF;
+    text-align: center;
+    font-size: 1.33rem;
+    margin: 1rem auto 0rem auto;
+    font-family: Roboto-Bold;
+}
+
+.deadlines{
+    color: #FFF;
+    font-size: 1.33rem;
+    font-style: normal;
+    padding-top: 0rem;
+    margin-top: 0.8rem;
+}
+
+.notNecessary{
+    display: flex;
+    width: 73.38rem;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin:5.83rem 16.66rem 2.5rem 16.66rem;
+}
+
+.textNotNecessary{
+    font-size: 1.66rem;
+    color: rgba(105, 106, 107, 1);
+    text-align: left;
+    padding-bottom: 0rem;
+    margin-top: 2.94rem;
+}
+
+.boldnotnecessary{
+    font-family:  Roboto-Medium;
+}
+

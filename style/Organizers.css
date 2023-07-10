@@ -1,0 +1,45 @@
+.containerOrganizer{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+}
+
+.mouse{
+    position: absolute;
+    top: 185rem;
+    left: 35.22rem;
+    width: 66rem;
+    height: 9.95rem;
+}
+.headingOrganiz{
+    color:rgba(40, 108, 187, 1);
+    font-size: 2rem;
+    padding-left: 1.5rem;
+    font-family:  Roboto-Bold;
+    margin-top: 0rem;
+}
+
+.lineOrganiz{
+    width: 16rem;
+    display: inline-block;
+    border-top: 0.38rem solid rgba(54, 142, 245, 0.7);
+    margin-top: 1rem;
+}
+
+.sstuLogo{
+    margin-right: 5.2rem;
+}
+.inpitLogo{
+    margin-left: 5.2rem;
+}
+
+.containerImg{
+    margin-top: 5rem;
+}
+
+.moredetailed{
+    color: #368EF5;
+    font-size: 1rem;
+    margin-top: 0.6rem;
+    margin-left: 68rem;
+}

@@ -1,0 +1,18 @@
+.blueDandelion2{
+    /* width: 300px;
+    height: 1800px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.blueDandelion2 img{
+    width: 136.733px;
+    height: 126.159px;
+}
+.blueDandelion1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}

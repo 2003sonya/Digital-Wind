@@ -1,0 +1,64 @@
+@font-face {
+    font-family: Roboto-Bold;
+    src: url("../fonts/Roboto-Bold.ttf");
+}
+
+@font-face {
+    font-family: Roboto-SemiBold;
+    src: url("./fonts/Roboto-SemiBold.ttf");
+}
+
+.otherBanner {
+    height: 30.5rem;
+    margin-top: 2.3rem;
+    position: relative;
+}
+
+.text {
+    font-family: Roboto-Bold;
+    position: absolute;
+    width: 57.05rem;
+    font-size: 2rem;
+    text-align: left;
+    top: 1.66rem;
+    left: 15.66rem;
+    color: rgb(255, 255, 255);
+}
+
+.becomeParticipantBPN {
+    font-family: Roboto-Bold;
+    width: 21rem;
+    height: 3.5rem;
+    font-size: 1.33rem;
+    background-color: rgb(255, 255, 255);
+    color: #368EF5;
+    font-weight: 33.33rem;
+    position: absolute;
+    top: 20.0rem;
+    left: 15.66rem;
+    border-radius: 0%;
+    border: 0rem;
+    border-color: rgb(255, 255, 255);
+    border-style: none;
+}
+
+.becomeParticipantBPN:hover {
+    font-family: Roboto-Bold;
+    font-size: 1.33rem;
+    background-color: #368EF5;
+    color: rgb(255, 255, 255);
+    font-weight: 33.33rem;
+    position: absolute;
+    top: 20.0rem;
+    left: 15.66rem;
+    border-radius: 0%;
+    border: 0rem;
+    border-color: rgb(255, 255, 255);
+    border-style: none;
+    border: none;
+}
+
+.bannerBPN {
+    width: 106rem;
+    height: 30.5rem;
+}

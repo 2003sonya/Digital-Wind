@@ -1,0 +1,41 @@
+.information{
+    margin-top: 85px;
+    padding: 0px;
+}
+.headerInformation{
+    width: 1920px;
+    display: flex;
+}
+.headerInformation p{
+    font-family: Roboto-Bold;
+    font-weight: 600;
+    font-size: 2rem;
+    margin: 0px 40px;
+    color: #286CBB;
+    text-transform: uppercase;
+}
+.flexInformation{
+    width: 1756px;
+    margin: auto;
+    display: flex;
+}
+.flexInformation .left, .flexInformation .right{
+    width: 136px;
+    height: 265px;
+    display: flex;
+    align-items: flex-end;
+}
+.flexInformation .center{
+    width: 1481px;
+    text-align: left;
+}
+.flexInformation .center a{
+    margin-left: 165px;
+    margin-bottom: 24px;
+    font-size: 1.3rem;
+    color: #FF9B05;;
+    display: block;
+}
+.flexInformation .center a:hover{
+    color: #646cff;
+}

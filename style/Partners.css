@@ -1,0 +1,85 @@
+.containerPartner{
+    display: flex; 
+    flex-direction: row;
+}
+
+.picture{
+    flex:1 1 auto;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+
+.pictureAll{
+    display: flex;
+    flex-wrap: wrap;
+    flex:5 1 auto; 
+    width: 73rem;
+    align-items: flex-end;
+}
+
+.picture3{
+    display: flex;
+    flex-direction: column;
+    flex:1 1 auto;
+}
+
+.sibintek{
+    display: flex;
+    flex: 2 1 auto;
+    padding-left: 0rem;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 3.2rem;
+    margin-left: 5rem;
+}
+
+.neoflex{
+    display: flex;
+    flex:2 1 auto;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 3.2rem;
+    margin-left: 3.1rem;
+}
+
+.netcracker{
+    display: flex;
+    flex:2 1 auto;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 3.1rem;
+    margin-left: 1.8rem;
+}
+
+.ssl{
+    display: flex;
+    flex:2 1 auto;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 1.8rem;
+    margin-left: 6rem;
+}
+
+.epam{
+    display: flex;
+    flex:2 1 auto;
+    flex-direction: column;
+    align-items: center;
+    align-items: center;
+    align-content: flex-end;
+    flex-wrap: wrap;
+    margin-right: 5.8rem;
+    margin-top: 2.3rem;
+}
+
+.museum{
+    display: flex;
+    flex:2 1 auto;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+    margin-left: 5.8rem;
+    margin-top: 2.3rem;
+}

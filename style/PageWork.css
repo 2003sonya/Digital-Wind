@@ -1,0 +1,64 @@
+@font-face{
+    font-family: Roboto-Bold;
+    src: url("./fonts/Roboto-Bold.ttf");
+  }
+.pageWork{
+    margin-top: 84px;
+}
+.pageWork .work{
+    width: 1319px;
+    margin: 0px auto;
+}
+.pageWork .posterWork{
+    width: 1319px;
+    height: 615px;
+}
+.deskription{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.deskription .person p{
+    text-align: left;
+    font-size: 1.3rem;
+    margin: 0px;
+}
+.deskription .person .title{
+    margin-bottom: 30px;
+    color: #368EF5;
+    font-size: 2rem;
+    font-family: Roboto-Bold;
+}
+.deskription .like{
+    height: 48px;
+    display: flex;
+    align-items: center;
+    color: #FF9B05;
+    font-size: 1.5rem;
+}
+.deskription .like p{
+    margin: 0px;
+}
+.comment{
+    width: 1319px;
+    margin: 90px auto;
+}
+.comment p:first-child{
+    color: #286CBB;
+    font-size: 2rem;
+    font-family: Roboto-Bold;
+    text-align: left;
+}
+.comment .noneComments{
+    text-align: center;
+    color: #368EF5;
+    font-size: 1.3rem;
+}
+
+.flashLogo02{
+    position: absolute;
+    top: 2.6rem;
+    left: 30rem;
+    width: 80rem;
+    height: 9rem;
+}

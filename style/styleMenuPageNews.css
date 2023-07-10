@@ -1,0 +1,101 @@
+@font-face {
+    font-family: Roboto-Bold;
+    src: url("./fonts/Roboto-Bold.ttf");
+}
+
+
+
+.containerMPN {
+    height: 7rem;
+    width: 73.4rem;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    
+    /*
+    margin-bottom: 2.28rem;
+    margin-left: 16.66rem;
+    margin-right: 16.55rem;*/
+}
+
+.logoMPN {
+    width: 11.3rem;
+    margin: 0;
+    padding: 0;
+}
+
+.mainLogo {
+    width: 11.29rem;
+    height: 7rem;
+}
+
+.infoMPN {
+    margin-left: 9.2rem;
+    display: flex;
+    flex-direction: column;
+    /*display: inline-block;
+    align-self: flex-start;
+    align-content:flex-end;  
+    text-align: right;
+    flex-basis: 70px;
+    flex-direction: row;
+    display: inline-block;
+    align-items: center;*/
+}
+
+.contactInformationMPN {
+    display: flex;
+    margin-left: 17.2rem;
+}
+
+.linksMPN {
+    display: flex;
+    width: 52.3rem;
+    margin-top: 3.4rem;
+    justify-content: space-between;
+}
+
+.telephoneMPN {
+    font-size: 1.11rem;
+    margin: 0;
+    padding-top: 0.5rem;
+}
+
+.vkLogoMPN {
+    padding-top: 0.301rem;
+    padding-left: 3.6rem;
+    width: 1.83rem;
+    height: 1.77rem;
+}
+
+.euMPN {
+    font-family: Roboto-Bold;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 0.5rem;
+    padding-left: 3.6rem;
+}
+
+.rilexitLogo {
+    padding-top: 0.4rem;
+    padding-left: 1.6rem;
+    width: 2.7rem;
+}
+
+.iconPerson {
+    padding-top: 0.4rem;
+    width: 2.1rem;
+    height: 2.1rem;
+    padding-left: 2.7rem;
+}
+
+.ns {
+    color: #FB8A05;
+    padding-top: 0.8rem;
+    padding-left: 0.9rem;
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}

@@ -1,0 +1,177 @@
+@font-face {
+    font-family: Roboto-Bold;
+    src: url("../fonts/Roboto-Bold.ttf");
+}
+.naminMain{
+    background-color:#72B0F8;
+    width: 106rem;
+}
+.headerNomination{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2.88rem;
+    padding-top: 1.5rem;
+}
+
+.lineWhite{
+    width: 16rem;
+    display: inline-block;
+    border-top: 0.38rem solid rgba(255, 255, 255, 1);
+    margin-top: 2.5rem;
+}
+
+.textNomin{
+    color:rgba(255, 255, 255, 1);
+    font-size: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family:  Roboto-Bold;
+}
+
+.whiteFlashLogo{
+    position:absolute;
+    top: 4rem;
+    left: 31.2rem;
+    width: 65.88rem;
+    height: 10.77rem;
+}
+
+.containerBlue{
+    display: flex;
+    
+}
+
+.one{
+    display: flex;
+    flex-direction: column;
+    flex:1 1 auto;
+}
+
+.two{
+    display: flex;
+    flex-wrap: wrap;
+    flex:5 1 auto; 
+    width: 73rem;  
+}
+
+.three{
+    display: flex;
+    flex-direction: column;
+    flex:1 1 auto;
+}
+.img1{
+    display: inline-block;
+    flex:1 1 auto;
+    justify-content: space-between;
+}
+
+.img2{
+    display: inline-block;
+    flex:1 1 auto;
+    justify-content: space-between;
+}
+
+.img3{
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: flex-end;
+    vertical-align: bottom;
+    flex-direction: column;
+    padding-bottom: 5rem;
+}
+
+.img0{
+    display: none;
+}
+
+.imgthematicSite{
+    display: flex;
+    flex: 2 1 auto;
+    padding-left: 0rem;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 2rem;
+}
+
+.img2dGraphics{
+    display: flex;
+    flex:2 1 auto;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 15rem;
+    padding-left: 15rem;
+}
+
+.imgd2Animation{
+    display: flex;
+    flex:2 1 auto;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 9rem;
+}
+
+.imgd3Graphics{
+    display: flex;
+    flex: 2 1 auto;
+    padding-left: 2rem;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgcomputerGames{
+    display: flex;
+    flex:2 1 auto;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 15rem;
+    padding-left: 15rem;
+}
+
+.imgphotoSketch{
+    display: flex;
+    flex:2 1 auto;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 9rem;
+}
+
+.textForImg{
+    width: 10.3rem;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+
+.linkOrange{
+    padding-bottom: 2.1rem;
+    padding-top: 2.33rem;
+    padding-left: 55rem;
+    background-color:#72B0F8;
+}
+.textlink{
+    color: rgba(251, 138, 5, 1);
+    font-size: 1rem;
+    font-family: Roboto-Bold;
+}
+
+/*@media all and (max-width:1617px){
+    
+    .textNomin{
+        font-size: 1.65rem;
+        padding-left: 1.5rem;
+    }
+    .lineWhite{
+        width: 14rem;
+        margin-top: 2.1em;
+        border-top: 0.28rem solid rgba(255, 255, 255, 1);
+    }
+    .whiteFlashLogo{
+        top: 0.7rem;
+        left: 27rem;
+        width: 30rem;
+    }
+
+    .two{
+        width: 20rem;  
+    }
+  }*/

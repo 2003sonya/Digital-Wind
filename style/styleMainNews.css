@@ -1,0 +1,74 @@
+@font-face{
+    font-family: Roboto-Medium;
+    src:url(../fonts/Roboto-Medium.ttf)
+  }
+
+  @font-face{
+    font-family: Roboto-Bold;
+    src:url(../fonts/Roboto-Bold.ttf)
+  }
+.mainNews{
+    margin:0 all;
+    width: 35.8rem;
+    background-color: #368EF5;;
+}
+
+.photoForNews{
+    width: 35.8rem;
+    height: 12.4rem;
+}
+
+.h3MainNews{
+    font-family: Roboto-Medium;
+    color: #FFF;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 27.2rem;
+    text-align: start;
+    padding-left: 1.6rem;
+    padding-top: 1.4rem;
+    margin: 0;
+}
+
+.textNews{
+    color: #FFF;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 27.2rem;
+    text-align: start;
+    padding-left: 1.6rem;
+    padding-top: 1.1rem;
+    margin: 0;
+}
+.botNews{
+    display: flex;
+    padding-bottom: 1.4rem;
+    padding-top: 1.7rem;
+    margin: 0;
+}
+
+.date{
+    color: #FFF;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: start;
+    padding-left: 1.6rem;
+    margin: 0;
+}
+
+.detail{
+    color: #FB8A05;
+    font-size: 0.8rem;
+    font-family: Roboto-Bold;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 24.3rem;
+    margin: 0;
+}

@@ -1,0 +1,123 @@
+@font-face {
+    font-family: Roboto-Bold;
+  src: url("./fonts/Roboto-Regular.ttf");
+}
+
+.container{
+    height: 7rem;
+    width: 73.4rem;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+}
+
+.logo{
+    text-align: left;
+    flex:1 1 auto;
+}
+.mainLogo{
+    width: 11.29rem;
+    height: 7rem;
+}
+
+.info{
+    flex:7 1 auto;
+    display: flex;
+    flex-direction: column;
+  /*display: inline-block;
+    align-self: flex-start;
+    align-content:flex-end;  
+    text-align: right;
+    flex-basis: 70px;
+    flex-direction: row;
+    display: inline-block;
+    align-items: center;*/
+}
+
+.contactInformation{
+    flex:1 1 auto;
+    text-align: right;
+}
+
+.links{
+    flex:3 1 auto;
+    text-align:right;
+    padding-top: 3.8rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.telephone{
+    font-size: 1.11rem;
+    margin: 0px;
+    display: inline-block;
+    padding-top: 0.5rem;
+    padding-right: 1.16rem;
+    vertical-align: top;
+}
+.vkLogo{
+    padding-top:0.301rem;
+    padding-right: 1.16rem;
+    width: 1.83rem;
+    height: 1.77rem;
+    display: inline-block;
+    vertical-align: top;
+}
+.eu{
+    font-family: Roboto-Bold;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0%;
+    padding-top: 0.5rem;
+}
+.exitLogo{
+    width: 2.56rem;
+    height: 2.05rem;
+    padding-right: 0.583rem;
+    padding-left: 3.4583rem;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.organizer{
+   /* padding-right: 0.22rem;
+    padding-left: 3rem;*/
+    color: #000000;
+}
+a.organizer:hover{
+   /* padding-right: 0.22rem;
+    padding-left: 3rem;*/
+    color: #000000;
+}
+
+a.masterClasses:hover{
+   /* padding-left: 2.44rem;*/
+    color: #000000;
+}
+
+a.contacts:hover{
+    /*padding-left: 2.66rem;*/
+    color: #000000;
+}
+
+a.information:hover{
+    /*padding-left: 2.83rem;*/
+    color: #000000;
+}
+
+a.catalog:hover{
+    /*padding-left: 2.33rem;*/
+    color: #000000;
+}
+a.new:hover{
+    color: #000000;
+}
+
+
+
+
+
+
+
+

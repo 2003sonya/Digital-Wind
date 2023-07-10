@@ -1,0 +1,160 @@
+@font-face{
+    font-family: Roboto-Bold;
+    src: url("./fonts/Roboto-Bold.ttf");
+  }
+.catalogWork{
+    margin-top: 70px;
+    width: 1920px;
+}
+.catalogWork hr, .pageWork hr, .information hr{
+    border: none;
+    color: rgba(54, 142, 245, 0.7);
+    background-color: rgba(54, 142, 245, 0.7);
+    margin: 0px;
+    height: 7px;
+    width: 300px;
+}
+.headerWork{
+    width: 1920px;
+    display: flex;
+}
+.headerWork p{
+    font-family: Roboto-Bold;
+    font-weight: 33rem;
+    font-size: 2rem;
+    margin: 0px 1rem;
+    color: #286CBB;
+    text-transform: uppercase;
+}
+.filterNomination{
+    margin: 0px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1296px;
+    height: 540px;
+}
+.line1{
+    display: flex;
+    justify-content: space-between;
+    width: 1296px;
+}
+.line2{
+    display: flex;
+    justify-content: space-between;
+    width: 572px;
+}
+.nomination{
+    width: 215px;
+    margin: 0px 20px;
+}
+.nomination p{
+    margin: 0px;
+}
+
+.filterAge{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px auto;
+    width: 1296px;
+    font-size: 1.5rem;
+}
+
+.listWork{
+    width: 1296px;
+    margin: 0px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.listWork p{
+    margin: 0px;
+}
+.arrows{
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+}
+.arrows p{
+    margin: 0px 19px;
+}
+.arrowL{
+    width: 14px;
+    height: 24px;
+    background-image: url("../img/arrowL.svg");
+}
+.arrowR{
+    width: 14px;
+    height: 24px;
+    background-image: url("../img/arrowR.svg");
+}
+.arrowL:hover{
+    background-image: url("../img/arrowLActive.svg");
+}
+.arrowR:hover{
+    background-image: url("../img/arrowRActive.svg");
+}
+.ageButton{
+    color: black;
+}
+.ageButton.active{
+    color: #646cff;
+}
+.ageButton:hover{
+    color: #646cff;
+}
+.flexWork{
+    display: flex;
+    justify-content: space-between;
+}
+.flexWork .left, .flexWork .right{
+    width: 300px;
+    /* height: 265px; */
+}
+.cardWork img{
+    width: 392px;
+    height: 227px;
+}
+.cardWork a{
+    display: block;
+    color: black;
+}
+.cardWork a:hover{
+    color: #646cff;
+}
+.catalogWork .blueDandelion2{
+    width: 300px;
+    height: 1800px;
+}
+
+
+.lin{
+    width: 14rem;
+    display: inline-block;
+    border-top: 0.38rem solid rgba(54, 142, 245, 0.7);
+    margin-top: 2.5rem;
+}
+
+.headin1{
+    color:rgba(40, 108, 187, 1);
+    font-size: 2rem;
+    padding-left: 1.5rem;
+    font-family: Roboto-Bold;
+}
+
+.flashLogo22{
+    position: absolute;
+    top: 2.5rem;
+    left: 28rem;
+    width: 80rem;
+    height: 9rem;
+}
+.containerHaed2{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 2.88rem;
+    width: 106rem;
+}

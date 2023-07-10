@@ -1,0 +1,66 @@
+@font-face{
+    font-family: Roboto-Medium;
+    src:url(../fonts/Roboto-Medium.ttf)
+  }
+
+.otherNews{
+    width: 36.1rem;
+    margin:0;
+    border: 2px solid #368EF5;
+   
+}
+
+.h3OtherNews{
+    width: 33.4rem;
+    color: #272727;
+    font-size: 1rem;
+    font-family: Roboto-Medium;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: start;
+    padding-top: 1.4rem;
+    padding-left: 1.6rem;
+    margin:0;
+}
+
+.textOtherNews{
+    color: #646464;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 1.6rem;
+    padding-top: 1.1rem;
+    margin:0;
+    width: 27.2rem;
+    text-align: start;
+}
+
+.botOtherNews{
+    display: flex;
+    padding-bottom: 1.4rem;
+    padding-top: 1.7rem;
+    margin: 0;
+}
+.dateOtherNews{
+    color: #646464;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: start;
+    padding-left: 1.6rem;
+    margin: 0;
+}
+
+.detailOtherNews{
+    color: #FB8A05;
+    font-size: 0.8rem;
+    font-family: Roboto-Bold;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 24.4rem;
+    margin: 0;
+}

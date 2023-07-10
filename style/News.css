@@ -1,0 +1,69 @@
+@font-face {
+    font-family: Roboto-Bold;
+    src: url("../fonts/Roboto-Medium.ttf");
+}
+.containerHaed{
+    padding-top: 2rem;
+}
+
+.lineNews{
+    width: 16rem;
+    display: inline-block;
+    border-top: 0.38rem solid rgba(54, 142, 245, 0.7);
+    margin-top: 2.5rem;
+}
+
+.lineNews2{
+    width: 80rem;
+    display: inline-block;
+    border-top: 0.38rem solid rgba(54, 142, 245, 0.7);
+    margin-top: 2.5rem;
+}
+.headingNews{
+    color:rgba(40, 108, 187, 1);
+    font-size: 2rem;
+    padding-left: 1.5rem;
+    padding-right: 1rem;
+    font-family:  Roboto-Bold;
+}
+
+.containerMain{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:  1.38rem;
+}
+
+.component1{
+    width: 35.77rem;
+    height: 23.65rem;
+   /* background-color: rgba(54, 142, 245, 0.7);*/
+}
+
+.containerContent{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.27rem;
+}
+
+.component2{
+    width: 36.11rem;
+    height: 11.22rem;
+    /*background-color: rgba(54, 142, 245, 0.7);*/
+    margin-bottom: 1.22rem;
+}
+
+.component3{
+    width: 36.11rem;
+    height: 11.22rem;
+   /* background-color: rgba(54, 142, 245, 0.7);*/
+}
+
+.allNews{
+    color: #368EF5;
+    font-size: 1rem;
+    margin-right: 67.5rem;
+    
+}
+
