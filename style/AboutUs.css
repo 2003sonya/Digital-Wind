@@ -1,0 +1,90 @@
+@font-face {
+    font-family: Roboto-Bold;
+  src: url("./fonts/Roboto-Regular.ttf");
+  }
+.containerAboutUs{
+    height: 9.66rem;
+    width: 74rem;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+}
+
+.twentyOneYear{
+    flex:1 1 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 3rem;
+    margin-left: 1rem;
+}
+
+.points{
+    text-align: left;
+    flex:8 1 auto;
+}
+
+.divTwentyOne{
+     flex:4 1 auto;
+    
+}
+ 
+.divYear{
+     flex:1 1 auto;
+}
+
+.textTwentyOne{
+    margin: 0rem;
+    color: #368EF5;
+    display: inline-block;
+    font-size: 6rem;
+    font-weight: 700;
+    line-height: 2.3rem;
+    padding-top: 1rem;
+    text-align: center;
+    font-family: Roboto-Bold;
+}
+
+.textYear{
+    padding: 0rem;
+    padding-bottom: 1rem;
+    margin: 0rem;
+    color: #368EF5;
+    font-size: 4rem;
+    display: inline-block;
+    line-height: 2.3rem;
+    text-align: center;
+    font-family: Roboto-Bold;
+    font-weight:bold;
+}
+
+.text01{
+    margin: 0rem;
+    color: #000000;
+    font-size: 1.66rem;
+    padding-left: 2rem;
+    line-height: 2.3rem;
+}
+
+.list{
+    margin: 0rem;
+    color: #000000;
+    font-size: 1.66rem;
+    line-height: 2.3rem;
+}
+
+/*@media all and (max-width:1617px){
+    .containerAboutUs{
+        height: 9.66rem;
+        width: 58rem;
+    }
+    .text01{
+        font-size: 1.3rem;
+        padding-left: 2rem;
+        line-height: 2rem;
+    }
+    .list{
+        font-size: 1.3rem;
+        line-height: 2rem;
+    }
+}*/
